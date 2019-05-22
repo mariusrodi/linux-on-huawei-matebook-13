@@ -1,27 +1,29 @@
 
 # Table of Contents
 
-1.  [GNU/Linux on Huawei Matebook 13 (2019)](#orgd3eeae8)
-    1.  [Background](#org5fa6a08)
-    2.  [Contribution](#org0daa159)
-    3.  [Linux Support Matrix - Manjaro](#org823dfb4)
+1.  [GNU/Linux on Huawei Matebook 13 (2019)](#orgd1afcc3)
+    1.  [Background](#org0facb2c)
+    2.  [Contribution](#org27ae76f)
+    3.  [Linux Support Matrix - Manjaro](#org502b9a4)
 
 
-<a id="orgd3eeae8"></a>
+<a id="orgd1afcc3"></a>
 
 # GNU/Linux on Huawei Matebook 13 (2019)
 
 ![img](matebook13.jpg "![img](https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg)")
 
+Image link: ![img](https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg)
+
 With this repository I want to track the Linux support on the Huawei
 Matebook 13.
 
-**This repository is inspired by lidel's repository about the Huawei Matebook X
+\*This repository is inspired by lidel's repository about the Huawei Matebook X
 (2017). Check out
-[lidel](<https://github.com/lidel/linux-on-huawei-matebook-x-2017>) on GitHub.**
+[lidel](<https://github.com/lidel/linux-on-huawei-matebook-x-2017>) on GitHub.\*
 
 
-<a id="org5fa6a08"></a>
+<a id="org0facb2c"></a>
 
 ## Background
 
@@ -30,7 +32,7 @@ Windows 10. Information about Linux support is sparse. In this repository I want
 to collect some data about things that work and things that don't work.
 
 
-<a id="org0daa159"></a>
+<a id="org27ae76f"></a>
 
 ## Contribution
 
@@ -39,7 +41,7 @@ another distro or if you found a typo, please fork, write down your notes and
 create a pull request.
 
 
-<a id="org823dfb4"></a>
+<a id="org502b9a4"></a>
 
 ## Linux Support Matrix - Manjaro
 
@@ -125,7 +127,7 @@ create a pull request.
 <td class="org-left">Keyboard</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">➖ PARTLY</td>
-<td class="org-left">every key is working except Mediacontrolkeys on keys F7, F8, F9, F10</td>
+<td class="org-left">every key is working except Mediacontrolkeys on keys `F7`, `F8`, `F9`, `F10`</td>
 </tr>
 
 
