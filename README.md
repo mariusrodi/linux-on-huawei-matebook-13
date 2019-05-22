@@ -11,7 +11,7 @@
 
 # GNU/Linux on Huawei Matebook 13 (2019)
 
-[\![![img](matebook13.jpg "![img](https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg)")]](![img](https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg "![img](https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg)"))
+[![matebook13.jpg]](https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg)
 
 With this repository I want to track the Linux support on the Huawei
 Matebook 13.
