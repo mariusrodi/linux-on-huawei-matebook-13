@@ -4,7 +4,7 @@
 #+NAME: matebook13.jpg
 [[file:matebook13.jpg]]
 
-Image link: https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg
+Image link: [[https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_13_i7/matebook13.jpg]]
 
 With this repository I want to track the Linux support on the Huawei
 Matebook 13.

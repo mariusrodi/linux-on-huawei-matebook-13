@@ -1,13 +1,13 @@
 
 # Table of Contents
 
-1.  [GNU/Linux on Huawei Matebook 13 (2019)](#orgd1afcc3)
-    1.  [Background](#org0facb2c)
-    2.  [Contribution](#org27ae76f)
-    3.  [Linux Support Matrix - Manjaro](#org502b9a4)
+1.  [GNU/Linux on Huawei Matebook 13 (2019)](#org157e742)
+    1.  [Background](#org98b5c6f)
+    2.  [Contribution](#org7863530)
+    3.  [Linux Support Matrix - Manjaro](#orgd875d91)
 
 
-<a id="orgd1afcc3"></a>
+<a id="org157e742"></a>
 
 # GNU/Linux on Huawei Matebook 13 (2019)
 
@@ -23,7 +23,7 @@ Matebook 13.
 [lidel](<https://github.com/lidel/linux-on-huawei-matebook-x-2017>) on GitHub.\*
 
 
-<a id="org0facb2c"></a>
+<a id="org98b5c6f"></a>
 
 ## Background
 
@@ -32,7 +32,7 @@ Windows 10. Information about Linux support is sparse. In this repository I want
 to collect some data about things that work and things that don't work.
 
 
-<a id="org27ae76f"></a>
+<a id="org7863530"></a>
 
 ## Contribution
 
@@ -41,7 +41,7 @@ another distro or if you found a typo, please fork, write down your notes and
 create a pull request.
 
 
-<a id="org502b9a4"></a>
+<a id="orgd875d91"></a>
 
 ## Linux Support Matrix - Manjaro
 
