@@ -16,9 +16,9 @@
 With this repository I want to track the Linux support on the Huawei
 Matebook 13.
 
-\*This repository is inspired by lidel's repository about the Huawei Matebook X
+**This repository is inspired by lidel's repository about the Huawei Matebook X
 (2017). Check out
-[lidel](<https://github.com/lidel/linux-on-huawei-matebook-x-2017>) on GitHub.\*
+[lidel](<https://github.com/lidel/linux-on-huawei-matebook-x-2017>) on GitHub.**
 
 
 <a id="orgd883c41"></a>
@@ -125,7 +125,7 @@ create a pull request.
 <td class="org-left">Keyboard</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">➖ PARTLY</td>
-<td class="org-left">every key is working except Mediacontrolkeys on keys `F7`, `F8`, `F9`, `F10`</td>
+<td class="org-left">every key is working except Mediacontrolkeys on keys F7, F8, F9, F10</td>
 </tr>
 
 
