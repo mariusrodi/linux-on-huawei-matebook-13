@@ -1,10 +1,10 @@
-# Note
+# !!!Note!!!
 
 **This repository is deprecated and solely exists for pointing to below stated repository!**
 
 **Checkout [linux-on-huawei-matebook-13-2019 repo of nekr0z](https://github.com/nekr0z/linux-on-huawei-matebook-13-2019) for more up to date information an fixes.**
 
-**For any new questions or fixes create an issue of pull request on the repository stated above**
+**For any new questions or fixes create an issue of pull request on the repository stated above.**
 
 ----
 
